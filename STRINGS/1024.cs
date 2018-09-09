@@ -2,7 +2,7 @@
  * URI Online Judge | 1024 https://www.urionlinejudge.com.br/judge/pt/problems/view/1024
  * Fatorial
  * Autor: Wiusmarques Moreira dos Reis
- * Contato: wiusmarques.dev@outlool.com
+ * Contato: wiusmarques.dev@outlook.com
  */
 using System.Text;
 using System;
