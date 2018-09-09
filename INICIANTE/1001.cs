@@ -2,7 +2,7 @@
  * URI Online Judge | 1001 https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
  * Extremamente Básico
  * Autor: Wiusmarques Moreira dos Reis
- * Contato: wiusmarques.dev@outlool.com
+ * Contato: wiusmarques.dev@outlook.com
  */
 using System;
 namespace URI.INICIANTE

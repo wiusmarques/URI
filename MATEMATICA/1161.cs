@@ -2,7 +2,7 @@
  * URI Online Judge | 1161 https://www.urionlinejudge.com.br/judge/pt/problems/view/1161
  * Fatorial
  * Autor: Wiusmarques Moreira dos Reis
- * Contato: wiusmarques.dev@outlool.com
+ * Contato: wiusmarques.dev@outlook.com
  */
 
 using System;
