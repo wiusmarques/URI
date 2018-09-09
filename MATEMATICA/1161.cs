@@ -1,6 +1,6 @@
 ﻿/*
  * URI Online Judge | 1161 https://www.urionlinejudge.com.br/judge/pt/problems/view/1161
- * Fatorial
+ * Soma de Fatoriais
  * Autor: Wiusmarques Moreira dos Reis
  * Contato: wiusmarques.dev@outlook.com
  */

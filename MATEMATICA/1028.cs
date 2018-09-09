@@ -13,9 +13,6 @@ namespace URI.MATEMATICA
 {
     class _1028
     {
-
-
-        private String entrada;
         private int qtdInteracoes;
         private int valorA, valorB, buffer, resposta;
 

@@ -1,6 +1,6 @@
 ﻿/*
  * URI Online Judge | 1120 https://www.urionlinejudge.com.br/judge/pt/problems/view/1120
- * Conversão entre Bases
+ * Revisão de Contrato
  * Autor: Wiusmarques Moreira dos Reis
  * Contato: wiusmarques.dev@outlook.com
  */
