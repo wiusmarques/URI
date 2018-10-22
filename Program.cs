@@ -4,6 +4,7 @@ using URI.INICIANTE;
 using URI.STRINGS;
 using URI.MATEMATICA;
 using System.Linq;
+using System.Collections;
 
 namespace URI
 {
@@ -11,8 +12,7 @@ namespace URI
     {
         static void Main(string[] args)
         {
-
+            
         }
-
     }
 }
