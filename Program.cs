@@ -13,7 +13,7 @@ namespace URI
         
         static void Main(string[] args)
         {
-            _1221 primoRapido = new _1221();
+            _1240 encaixaOuNaoI = new _1240();
         }
     }
 }
