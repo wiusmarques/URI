@@ -13,7 +13,7 @@ namespace URI.MATEMATICA
     class _1144
     {
         private string entrada;
-        private int numCasosTeste = int.Parse(Console.ReadLine());
+        private int numCasosTeste;
         private double quantidadeAlunos, quantidadeAlunosAcimaMedia = 0;
         private double mediaTurma, percentualAlunosAcimaMedia;
 
@@ -24,8 +24,9 @@ namespace URI.MATEMATICA
 
         private void startProcess()
         {
-            
+
             //StreamWriter sw = new StreamWriter("saida.txt");
+            numCasosTeste = int.Parse(Console.ReadLine());
 
             for (int a = 0; a < numCasosTeste; a++)
             {

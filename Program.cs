@@ -10,9 +10,10 @@ namespace URI
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            
+            _1221 primoRapido = new _1221();
         }
     }
 }
