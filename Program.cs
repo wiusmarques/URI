@@ -13,7 +13,7 @@ namespace URI
         
         static void Main(string[] args)
         {
-            _1240 encaixaOuNaoI = new _1240();
+            _1308 a = new _1308();
         }
     }
 }
