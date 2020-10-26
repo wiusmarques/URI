@@ -7,9 +7,9 @@
  * Contato: wiusmarques.dev@outlook.com
  */
 
-$_1329 = new _1329();
+$_1323 = new _1323();
 
-class _1329 {
+class _1323 {
 
     public function __construct(){
         $this->execute();
@@ -25,7 +25,7 @@ class _1329 {
             }
 
             $squares = 0;
-            
+
             for($i = 1; $i <= $input; $i++){
                 $squares += $i * $i;
             }
